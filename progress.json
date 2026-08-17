@@ -1,23 +1,5 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1786645893.182793,
-    "completed_at": 1786645894.803849,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786645926.319974,
-    "completed_at": 1786645927.817901,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786645943.151754,
     "completed_at": 1786645944.72105,
@@ -31,6 +13,33 @@
     "started_at": 1786645957.647207,
     "completed_at": 1786645959.144668,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786645926.319974,
+    "completed_at": 1786645927.817901,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786645893.182793,
+    "completed_at": 1786645894.803849,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786964548.294662,
+    "completed_at": 1786964551.350602,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
     "status": "Completed"
   }
 ]
