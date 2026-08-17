@@ -59,5 +59,14 @@
       "You need to unstage all three attendance files for Josh, Adam, and Mary."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786965045.287833,
+    "completed_at": 1786965048.767588,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
