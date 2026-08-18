@@ -9,10 +9,64 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787030980.156927,
+    "completed_at": 1787030983.681454,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787029132.463955,
+    "completed_at": 1787029135.359364,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787029200.15505,
+    "completed_at": 1787029201.703149,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786645957.647207,
     "completed_at": 1786645959.144668,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787029803.165143,
+    "completed_at": 1787029805.207541,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787028488.826935,
+    "completed_at": 1787028541.287511,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787028548.628606,
+    "completed_at": 1787028630.393677,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   },
   {
@@ -21,6 +75,24 @@
     "completed_at": 1786645927.817901,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786964999.977782,
+    "completed_at": 1786965006.373266,
+    "comments": [
+      "You need to unstage all three attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786965045.287833,
+    "completed_at": 1786965048.767588,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -48,24 +120,6 @@
     "completed_at": 1786964888.374193,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786964999.977782,
-    "completed_at": 1786965006.373266,
-    "comments": [
-      "You need to unstage all three attendance files for Josh, Adam, and Mary."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786965045.287833,
-    "completed_at": 1786965048.767588,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   }
